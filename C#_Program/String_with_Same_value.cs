@@ -26,8 +26,8 @@ namespace StringDemo
 }
 
 //Output : Loop Started
-//            Loop Ended
-//            Loop Execution Time in MS: 95
+//         Loop Ended
+//         Loop Execution Time in MS: 95
 
 // Above output it only took 95 milliseconds. 
 // This is because in this case fresh objects are not created each time the loop executes. 
