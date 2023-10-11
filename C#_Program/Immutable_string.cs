@@ -25,3 +25,6 @@ namespace StringDemo
         }
     }
 }
+
+// It approximately took 26000 milliseconds to execute the loop. Each time the loop executes, 
+// it creates a fresh string object and assigns a new value to it. This is because strings are immutable in C#.
